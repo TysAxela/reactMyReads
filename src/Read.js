@@ -65,9 +65,7 @@ class Read extends Component {
                       </li>
                     </ol>
                   </div>
-                </div>
-              
-            
+                </div>            
       )
     }
 }
